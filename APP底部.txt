@@ -1,0 +1,38 @@
+   <footer>
+        <ul>
+            <li><a href="index.html"><img src="llq-img/首页.png"><p>首页</p></a></li>
+            <li><a href="destination.html"><img src="llq-img/目的地(选中).png"><p class="on">目的地</p></a></li>
+            <li><a href="box.html"><img src="llq-img/百宝箱.png"><p >百宝箱</p></a></li>
+            <li><a href="helper.html"><img src="llq-img/助手.png"><p>助手</p></a></li>
+            <li><a href="install.html"><img src="llq-img/设置.png"><p>设置</p></a></li>
+        </ul>
+    </footer>
+
+less
+
+// 底部
+footer{
+    height: 1rem;
+    width: 100%;
+    padding-top:.15rem;
+    position:fixed;
+    bottom:0;
+    border-top:.01rem solid #ccc;
+    ul{
+        display: flex;
+        justify-content: space-around;
+        li{
+            text-align: center;
+        }
+    }
+    img{
+        width: .5rem;
+        margin-bottom:.1rem;
+    }
+    a{
+        color:#333;
+    }
+    .on{
+        color:#00be90;
+    }
+}
