@@ -1,0 +1,36 @@
+
+首页                                                
+
+目的地 ：内容： （当地地域  民俗风情 专题新闻  演出节庆  历史故事） 可单独选一个子页面                                                          
+                                                                             
+社区 :   旅行专栏  旅行问答  结伴同游     特别策划  旅行论坛                                                                              
+                                                                               
+旅游攻略 ：热门景点  旅游线路推荐  导游导览  景区直播  厕所信息
+
+商城：机酒自行游  当地玩乐  签证  租车自驾  邮轮  保险  私人定制                                                                            
+                                                                 
+酒店:   国内酒店  海外酒店  订酒店   团购  特价酒店   海外民宿
+
+机票:   境内机票  国际·港澳台机票  特价机票  航班动态  
+
+火车票： 国际·港台火车票  国内火车票
+
+汽车·船票：汽车票  船票  游艇帆船  团队包车
+
+旅游助手    买门票    农家乐  寻美食   特产购买  包租车   导游预约    在线客服    优惠活动                                                                               
+登录|注册      全部订单  机票订单  定制订单  我的信息  我的收藏  我的优惠卷
+我的订单
+
+游客端核心功能如下：
+1、旅游目的地：包括当地地域概况、民俗风情、专题新闻、演出节庆、历史故事等信息介绍。
+2、旅游百宝箱：包括热点景区介绍、旅游线路推荐、导游导览、景区直播、厕所信息、旅游攻略等。
+3、旅游助手：买门票、订酒店、农家乐、寻美食、特产购买、包租车、导游预约、在线客服、优惠活动。
+
+首页：https://m.qyer.com/
+机票：https://m.tuniu.com/flight
+火车票：https://m.ctrip.com/webapp/train/?secondwakeup=true&dpclickjump=true&from=https%3A%2F%2Fm.ctrip.com%2Fhtml5%2F#/index?VNK=33f8d4d5
+买门票：https://m.ctrip.com/webapp/ticket/ticket?secondwakeup=true&from=https%3A%2F%2Fm.ctrip.com%2Fhtml5%2F
+租车：https://m.mafengwo.cn/mdd/10156
+旅游路线：https://m.mafengwo.cn/mdd/route/10156.html
+目的地：https://m.mafengwo.cn/localdeals/10156/
+导游：http://m.ctrip.com/webapp/vacations/pguider/homepage?secondwakeup=true&from=https%3A%2F%2Fm.ctrip.com%2Fhtml5%2F
